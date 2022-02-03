@@ -8,7 +8,7 @@ let trainer = {
 	},
 	talk: function() {
 		console.log('Pikachu! I choose you!');
-	}
+	} 
 }
 console.log(trainer);
 console.log('Result of dot notation:')
